@@ -2,7 +2,7 @@
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
-*This repository will be updated with data processing code.*
+*This repository will be updated with additional data processing code.*
 
 ## Results
 
