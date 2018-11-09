@@ -46,7 +46,7 @@ Shapefiles for most counties were obtained from the [Florida Election Science Te
 
 There are many ways to present election results (see **References / Inspiration** below).
 
-**Have questions or contributions?** Send us a [pull request](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via [email](mailto:czhang@baltsun.com). You can also fork your own copy of this repo to your own account.
+**Have questions or contributions?** Send us a [pull request](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/pulls) or contact us on Twitter [@baltsundata](https://twitter.com/baltsundata) or via [email](mailto:czhang@baltsun.com). You can also fork your own copy of this repo to your account.
 
 ## References / Inspiration
 ["California's most detailed election result map EVER"](https://github.com/datadesk/california-2016-election-precinct-maps) by the Los Angeles Times Data Viz team. [Story](http://www.latimes.com/projects/la-pol-ca-california-neighborhood-election-results/) by Jon Schleuss, Joe Fox and Priya Krishnakumar.
