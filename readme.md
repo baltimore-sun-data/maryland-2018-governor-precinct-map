@@ -33,6 +33,8 @@ If you're looking for processed precinct-level results for Maryland's 2018 guber
 - `winner`: winner in precinct
 - `perc_winner`: percentage of votes received by winner in precinct
 - `area`: area in square meters calculated under projection EPSG:4326 - WGS 84
+- `area_mi`: area in square miles
+- `density`: total number of votes received per square mile
 - `zipcode`: zipcodes corresponding to each precinct
 
 The raw results file is saved in the `results` folder under `input/results_raw.csv`. These were obtained from the Maryland state Board of Elections Election Day [Precinct Results feed](https://elections.maryland.gov/elections/results_data/GG18/PrecinctResults.js). Gubernatorial results were extracted and processed using the state's [MetaData feed](https://elections.maryland.gov/elections/results_data/GG18/MetaData.js).
