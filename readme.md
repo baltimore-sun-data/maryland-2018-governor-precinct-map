@@ -6,7 +6,7 @@ By [Christine Zhang](mailto:czhang@baltsun.com)
 
 *This repository will be updated with additional data processing code.*
 
-## Results
+## Precinct results
 
 If you're looking for processed precinct-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under `output/results_processed.csv`. The file contains the following columns:
 
@@ -40,6 +40,14 @@ If you're looking for processed precinct-level results for Maryland's 2018 guber
 - `zipcode`: zipcodes corresponding to each precinct
 
 The raw results file is saved in the `results` folder under `input/results_raw.csv`. These were obtained from the Maryland state Board of Elections Election Day [Precinct Results feed](https://elections.maryland.gov/elections/results_data/GG18/PrecinctResults.js). Gubernatorial results were extracted and processed using the state's [MetaData feed](https://elections.maryland.gov/elections/results_data/GG18/MetaData.js).
+
+## Early Voting and Absentee Results
+
+> Precinct level results, and the roll-up of such data into districts based on what districts the precinct participates in, is limited by Maryland Election Law to election-day voting.  Early Voting, Absentee and Provisional vote counts are not reported at the precinct level, so those counts are only included in the county level files.
+Source: [Maryland Board of Elections](https://elections.maryland.gov/elections/using_election_data_instructions.html)
+
+If you're looking for county-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under `output/results_ev_absentee.csv`. The file structure follows the layout on the state Board of Elections [results page](https://elections.maryland.gov/county_status_page_root.html).
+
 
 ## Shapefiles
 If you're looking for Maryland precinct shapefiles, you'll find them in the `shapefiles` folder under `md_all.zip`. The `ID` field corresponds to the `ID` column in the results file.
