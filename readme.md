@@ -1,4 +1,4 @@
-# Precinct-level results for Maryland's 2018 gubernatorial election (and county-level results for Early Voting and Absentee / Provisional Voting)
+# Precinct-level results for Maryland's 2018 gubernatorial election (now with county-level results for Early Voting and Absentee / Provisional Voting)
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
