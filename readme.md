@@ -2,6 +2,8 @@
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
+![](outuot/screenshot.png)
+
 *This repository will be updated with additional data processing code.*
 
 ## Results
