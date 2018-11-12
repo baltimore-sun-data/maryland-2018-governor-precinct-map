@@ -44,6 +44,7 @@ The raw results file is saved in the `results` folder under `input/results_raw.c
 ## Early Voting and Absentee Results
 
 > Precinct level results, and the roll-up of such data into districts based on what districts the precinct participates in, is limited by Maryland Election Law to election-day voting.  Early Voting, Absentee and Provisional vote counts are not reported at the precinct level, so those counts are only included in the county level files.
+
 Source: [Maryland Board of Elections](https://elections.maryland.gov/elections/using_election_data_instructions.html)
 
 If you're looking for county-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under `output/results_ev_absentee.csv`. The file structure follows the layout on the state Board of Elections [results page](https://elections.maryland.gov/county_status_page_root.html).
