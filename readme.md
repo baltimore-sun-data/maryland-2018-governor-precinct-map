@@ -1,4 +1,5 @@
-# Precinct-level results for Maryland's 2018 gubernatorial general election — now with county-level results for Early Voting and Absentee / Provisional Voting and precinct-level results for Anne Arundel's County Executive race
+# Precinct-level results for Maryland's 2018 gubernatorial general election 
+## Now with county-level results for Early Voting and Absentee / Provisional Voting and precinct-level results for Anne Arundel's County Executive race
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
