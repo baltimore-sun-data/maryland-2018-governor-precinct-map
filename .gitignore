@@ -1,3 +1,9 @@
 *.ipynb_checkpoints
 */*.DS_Store
 *.DS_Store
+shapefiles/md_all/
+*/*.ai
+*/*.eps
+*/*.pdf
+*/*.ipynb_checkpoints
+shapefiles/Maryland_Political_Boundaries__ZIP_Codes__5_Digit
