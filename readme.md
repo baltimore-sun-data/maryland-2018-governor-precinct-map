@@ -6,6 +6,8 @@ By [Christine Zhang](mailto:czhang@baltsun.com)
 
 ![](output/screenshot.png)
 
+Available online on The Baltimore Sun's website in a November 9, 2018 story titled ["Maryland governor precinct-by-precinct: Where Hogan and Jealous got their votes"](https://www.baltimoresun.com/news/maryland/politics/bs-md-governor-election-precinct-map-20181107-htmlstory.html).
+
 *This repository will be updated with additional data processing code.*
 
 ## Precinct results for the governor's race (Election Day vote only)
