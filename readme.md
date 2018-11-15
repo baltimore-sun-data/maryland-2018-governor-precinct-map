@@ -47,7 +47,7 @@ The raw results file is saved in the `results` folder under [`input/results_raw.
 
 ## Precinct results for the Anne Arundel County Executive race (Election Day vote only)
 
-We also made a precinct-level map of the Anne Arundel County Executive race for a November 15, 2018 [story](https://www.capitalgazette.com/news/government/ac-cn-executive-precincts-1115-story.html) in The Capital by Chase Cook titled "Pittman rode early voting to victory, flipped precincts Schuh won easily in 2014" (print headline: "Dissecting Pittman's upset win over Schuh").
+We also made a precinct-level map of the Anne Arundel County Executive race for a November 15, 2018 story in The Capital by Chase Cook titled ["Pittman rode early voting to victory, flipped precincts Schuh won easily in 2014"](https://www.capitalgazette.com/news/government/ac-cn-executive-precincts-1115-story.html) (print headline: "Dissecting Pittman's upset win over Schuh").
 
 If you're looking for the precinct-level results that power the map, you'll find them in the `results` folder under [`output/results_processed_annearundel_exec.csv`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/blob/master/output/results_processed_annearundel_exec.csv). The column names mostly follow the ones listed for the governor's race, except that the Anne Arundel County Executive candidates are Dem. Steuart Pittman and Rep. Steve Schuh. 
 
