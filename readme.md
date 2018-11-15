@@ -10,7 +10,7 @@ By [Christine Zhang](mailto:czhang@baltsun.com)
 
 ## Precinct results for the governor's race (Election Day vote only)
 
-If you're looking for processed precinct-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under `output/results_processed.csv`. The file contains the following columns:
+If you're looking for processed precinct-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under [`output/results_processed.csv`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/tree/master/output). The file contains the following columns:
 
 - `ID`: unique precinct ID assigned by the state
 - `NAME`: name of the precinct
@@ -41,15 +41,15 @@ If you're looking for processed precinct-level results for Maryland's 2018 guber
 - `density`: total number of votes received per square mile
 - `zipcode`: zipcodes corresponding to each precinct
 
-The raw results file is saved in the `results` folder under `input/results_raw.csv`. These were obtained from the Maryland state Board of Elections Election Day [Precinct Results feed](https://elections.maryland.gov/elections/results_data/GG18/PrecinctResults.js). Gubernatorial results were extracted and processed using the state's [MetaData feed](https://elections.maryland.gov/elections/results_data/GG18/MetaData.js).
+The raw results file is saved in the `results` folder under [`input/results_raw.csv`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/tree/master/input). These were obtained from the Maryland state Board of Elections Election Day [Precinct Results feed](https://elections.maryland.gov/elections/results_data/GG18/PrecinctResults.js). Gubernatorial results were extracted and processed using the state's [MetaData feed](https://elections.maryland.gov/elections/results_data/GG18/MetaData.js).
 
 ## Precinct results for the Anne Arundel County Executive race (Election Day vote only)
 
-We also made a precinct-level map of the Anne Arundel County Executive race for a November 15, 2018 story in The Capital by Chase Cook titled "Pittman rode early voting to victory, flipped precincts Schuh won easily in 2014" (print headline: "Dissecting Pittman's upset win over Schuh").
+We also made a precinct-level map of the Anne Arundel County Executive race for a November 15, 2018 [story](https://www.capitalgazette.com/news/government/ac-cn-executive-precincts-1115-story.html) in The Capital by Chase Cook titled "Pittman rode early voting to victory, flipped precincts Schuh won easily in 2014" (print headline: "Dissecting Pittman's upset win over Schuh").
 
-If you're looking for the precinct-level results that power the map, you'll find them in the `results` folder under `output/results_processed_annearundel_exec.csv`. The column names mostly follow the ones listed for the governor's race, except that the Anne Arundel County Executive candidates are Dem. Steuart Pittman and Rep. Steve Schuh. 
+If you're looking for the precinct-level results that power the map, you'll find them in the `results` folder under [`output/results_processed_annearundel_exec.csv`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/blob/master/output/results_processed_annearundel_exec.csv). The column names mostly follow the ones listed for the governor's race, except that the Anne Arundel County Executive candidates are Dem. Steuart Pittman and Rep. Steve Schuh. 
 
-The computer code used to process the raw results is saved in the `code` folder under `code/anne_arundel.ipynb` (note: viewable on desktop).
+The computer code used to process the raw results is saved in the `code` folder under [`code/anne_arundel.ipynb`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/blob/master/code/anne_arundel.ipynb) (note: viewable on desktop).
 
 ![](output/capital_pg1.png)
 
@@ -61,7 +61,7 @@ Source: [Maryland state Board of Elections](https://elections.maryland.gov/elect
 
 ## Early Voting and Absentee results for the governor's race (by county)
 
-If you're looking for county-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under `output/results_ev_absentee.csv`. The file structure follows the layout on the state Board of Elections [results page](https://elections.maryland.gov/county_status_page_root.html).
+If you're looking for county-level results for Maryland's 2018 gubernatorial election, you'll find them in the `results` folder under [`output/results_ev_absentee.csv`](https://github.com/baltimore-sun-data/maryland-2018-governor-precinct-map/blob/master/output/results_ev_absentee.csv). The file structure follows the layout on the state Board of Elections [results page](https://elections.maryland.gov/county_status_page_root.html).
 
 ## Shapefiles
 If you're looking for Maryland precinct shapefiles, you'll find them in the `shapefiles` folder under `md_all.zip`. The `ID` field corresponds to the `ID` column in the results file.
