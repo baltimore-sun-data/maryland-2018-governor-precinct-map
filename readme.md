@@ -1,5 +1,6 @@
 # Precinct-level results for Maryland's 2018 gubernatorial general election 
-## Now with county-level results for Early Voting and Absentee / Provisional Voting and precinct-level results for Anne Arundel's County Executive race
+
+**Now with county-level results for Early Voting and Absentee / Provisional Voting and precinct-level results for Anne Arundel's County Executive race**
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
@@ -48,7 +49,7 @@ The raw results file is saved in the `results` folder under `input/results_raw.c
 
 We also made a precinct-level map of the Anne Arundel County Executive race for a November 15, 2018 story in The Capital by Chase Cook titled "Pittman rode early voting to victory, flipped precincts Schuh won easily in 2014" (print headline: "Dissecting Pittman's upset win over Schuh").
 
-If you're looking for the precinct-level results that power the map, you'll find them in the `results` folder under `output/results_processed_annearundel_exec.csv`. 
+If you're looking for the precinct-level results that power the map, you'll find them in the `results` folder under `output/results_processed_annearundel_exec.csv`. The column names mostly follow the ones listed for the governor's race, except that the Anne Arundel County Executive candidates are Dem. Steuart Pittman and Rep. Steve Schuh. 
 
 The computer code used to process the raw results is saved in the `code` folder under `code/anne_arundel.ipynb` (note: viewable on desktop).
 
